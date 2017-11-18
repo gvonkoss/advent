@@ -9,9 +9,6 @@
     }
 
   & span:after {
-    text-shadow:
-      1px 4px 6px hsla(360, 100%, 100%, 0.1),
-      0 0 0 hsla(0, 0%, 0%, 0.3);
     transform: rotateX(-15deg);
   }
 }

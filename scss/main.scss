@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,900');
+@import 'variables';
 @import 'effects/main';
 
 body {
@@ -15,11 +16,11 @@ body {
 }
 
 .calendar__day {
-  background: #e74d3c;
+  background: $dark;
   padding: 20px;
   text-align: center;
 }
 
 .calender__day--light {
-  background: #ea6253;
+  background: $medium;
 }
