@@ -1,0 +1,27 @@
+.open-bottom span:before,
+.open-bottom span:after {
+  transform-origin: 50% 0;
+}
+
+.open-bottom {
+  & span:before {
+      transform: scale(1, 1.05) skew(4deg, 0deg);
+    }
+
+  & span:after {
+    text-shadow:
+      0px -1px 0px hsla(360, 100%, 100%, 0.1),
+		  0px 3px 1px hsla(0, 0%, 0%, 0.4);
+    transform: rotateX(15deg);
+  }
+}
+
+.open-bottom:hover {
+  & span:before {
+    transform: translateY(-0.035em) scale(1,1.2) skew(10deg, 0deg);
+  }
+
+  & span:after {
+    transform: translateY(0.045em) rotatex(40deg);
+  }
+}

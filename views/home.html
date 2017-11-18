@@ -1,0 +1,7 @@
+<div class="calendar">
+  {{#each days}}
+    <div class="calendar__day open-{{position}} {{#if highlight}}calender__day--light{{/if}}">
+      <span data-letter="{{date}}">{{date}}</span>
+    </div>
+  {{/each}}
+</div>

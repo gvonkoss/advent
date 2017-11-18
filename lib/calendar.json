@@ -1,0 +1,124 @@
+{
+  "days":[
+    {
+      "date": 1,
+      "position": "left",
+      "highlight": true
+    },
+    {
+      "date": 2,
+      "position": "top",
+      "highlight": false
+    },
+    {
+      "date": 3,
+      "position": "left",
+      "highlight": true
+    },
+    {
+      "date": 4,
+      "position": "left",
+      "highlight": false
+    },
+    {
+      "date": 5,
+      "position": "left",
+      "highlight": true
+    },
+    {
+      "date": 6,
+      "position": "left",
+      "highlight": false
+    },
+    {
+      "date": 7,
+      "position": "bottom",
+      "highlight": false
+    },
+    {
+      "date": 8,
+      "position": "left",
+      "highlight": true
+    },
+    {
+      "date": 9,
+      "position": "left",
+      "highlight": false
+    },
+    {
+      "date": 10,
+      "position": "left",
+      "highlight": true
+    },
+    {
+      "date": 11,
+      "position": "left",
+      "highlight": false
+    },
+    {
+      "date": 12,
+      "position": "left",
+      "highlight": true
+    },
+    {
+      "date": 13,
+      "position": "left",
+      "highlight": true
+    },
+    {
+      "date": 14,
+      "position": "left",
+      "highlight": false
+    },
+    {
+      "date": 15,
+      "position": "left",
+      "highlight": true
+    },
+    {
+      "date": 16,
+      "position": "left",
+      "highlight": false
+    },
+    {
+      "date": 17,
+      "position": "left",
+      "highlight": true
+    },
+    {
+      "date": 18,
+      "position": "left",
+      "highlight": false
+    },
+    {
+      "date": 19,
+      "position": "left",
+      "highlight": false
+    },
+    {
+      "date": 20,
+      "position": "left",
+      "highlight": true
+    },
+    {
+      "date": 21,
+      "position": "left",
+      "highlight": false
+    },
+    {
+      "date": 22,
+      "position": "left",
+      "highlight": true
+    },
+    {
+      "date": 23,
+      "position": "left",
+      "highlight": false
+    },
+    {
+      "date": 24,
+      "position": "left",
+      "highlight": true
+     }
+  ]
+}

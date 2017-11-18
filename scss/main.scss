@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,900');
+@import 'effects/main';
+
+body {
+  font-family: 'Montserrat';
+  font-size: 100px;
+  font-weight: 900;
+  margin: 0;
+}
+
+.calendar {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+}
+
+.calendar__day {
+  background: #e74d3c;
+  padding: 20px;
+  text-align: center;
+}
+
+.calender__day--light {
+  background: #ea6253;
+}

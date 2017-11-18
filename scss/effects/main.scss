@@ -1,0 +1,52 @@
+@import 'top';
+@import 'left';
+@import 'bottom';
+
+.calendar__day span {
+  display: inline-block;
+  line-height: 1;
+  position: relative;
+  color: hsla(0, 0%, 0%, 0.6);
+  transform-style: preserve-3d;
+  perspective: 550px;
+  z-index: 1;
+  text-shadow:
+    1px 4px 6px #e74d3c,
+    0 0 0 hsla(0, 0%, 0%, 0.3),
+    1px 4px 6px #e74d3c;
+
+  &:before,
+  &:after {
+    position: absolute;
+    content: attr(data-letter);
+    line-height: inherit;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 2;
+    transition: all 0.3s;
+  }
+
+  &:before {
+    text-shadow: none;
+    color: hsla(0, 0%, 0%, 0.12)
+  }
+
+  &:after {
+    color: #e74d3c;
+  }
+}
+
+
+.calender__day--light {
+  & span:after {
+    color: #ea6253;
+  }
+
+  &:hover {
+    & span:after {
+      color: #e74d3c;
+    }
+  }
+}
