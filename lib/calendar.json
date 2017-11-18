@@ -2,7 +2,7 @@
   "days":[
     {
       "date": 1,
-      "position": "left",
+      "position": "right",
       "highlight": true
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "date": 3,
-      "position": "left",
+      "position": "right",
       "highlight": true
     },
     {
       "date": 4,
-      "position": "left",
+      "position": "top",
       "highlight": false
     },
     {
@@ -42,37 +42,37 @@
     },
     {
       "date": 9,
-      "position": "left",
+      "position": "right",
       "highlight": false
     },
     {
       "date": 10,
-      "position": "left",
+      "position": "top",
       "highlight": true
     },
     {
       "date": 11,
-      "position": "left",
+      "position": "bottom",
       "highlight": false
     },
     {
       "date": 12,
-      "position": "left",
+      "position": "right",
       "highlight": true
     },
     {
       "date": 13,
-      "position": "left",
+      "position": "bottom",
       "highlight": true
     },
     {
       "date": 14,
-      "position": "left",
+      "position": "top",
       "highlight": false
     },
     {
       "date": 15,
-      "position": "left",
+      "position": "right",
       "highlight": true
     },
     {
@@ -82,17 +82,17 @@
     },
     {
       "date": 17,
-      "position": "left",
+      "position": "bottom",
       "highlight": true
     },
     {
       "date": 18,
-      "position": "left",
+      "position": "right",
       "highlight": false
     },
     {
       "date": 19,
-      "position": "left",
+      "position": "top",
       "highlight": false
     },
     {
@@ -102,17 +102,17 @@
     },
     {
       "date": 21,
-      "position": "left",
+      "position": "bottom",
       "highlight": false
     },
     {
       "date": 22,
-      "position": "left",
+      "position": "top",
       "highlight": true
     },
     {
       "date": 23,
-      "position": "left",
+      "position": "right",
       "highlight": false
     },
     {
