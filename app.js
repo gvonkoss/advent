@@ -1,6 +1,7 @@
 const express = require('express');
 const exphbs = require('express-handlebars');
 const app = express();
+const calendar = require('./lib/calendar');
 
 const handlebars = exphbs.create({
 	extname: '.html',
@@ -12,10 +13,11 @@ app.set('view engine', '.html');
 app.use(express.static('public'));
 
 app.get('/', (req, res) => {
-  res.render('home', require('./lib/calendar'))
+  res.render('home', calendar)
 });
 
 app.get('/:day', (req, res) => {
-  res.send(req.params.day);
+  res.render('day', calendar.days[req.params.day - 1]);
 })
+
 app.listen(3000, () => console.log('list-ening'))
