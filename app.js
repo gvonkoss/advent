@@ -15,4 +15,7 @@ app.get('/', (req, res) => {
   res.render('home', require('./lib/calendar'))
 });
 
+app.get('/:day', (req, res) => {
+  res.send(req.params.day);
+})
 app.listen(3000, () => console.log('list-ening'))

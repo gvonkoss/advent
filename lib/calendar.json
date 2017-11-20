@@ -3,122 +3,146 @@
     {
       "date": 1,
       "position": "right",
-      "highlight": true
+      "highlight": true,
+      "opened": false
     },
     {
       "date": 2,
       "position": "top",
-      "highlight": false
+      "highlight": false,
+      "opened": false
     },
     {
       "date": 3,
       "position": "right",
-      "highlight": true
+      "highlight": true,
+      "opened": false
     },
     {
       "date": 4,
       "position": "top",
-      "highlight": false
+      "highlight": false,
+      "opened": false
     },
     {
       "date": 5,
       "position": "left",
-      "highlight": true
+      "highlight": true,
+      "opened": false
     },
     {
       "date": 6,
       "position": "left",
-      "highlight": false
+      "highlight": false,
+      "opened": false
     },
     {
       "date": 7,
       "position": "bottom",
-      "highlight": false
+      "highlight": false,
+      "opened": false
     },
     {
       "date": 8,
       "position": "left",
-      "highlight": true
+      "highlight": true,
+      "opened": false
     },
     {
       "date": 9,
       "position": "right",
-      "highlight": false
+      "highlight": false,
+      "opened": false
     },
     {
       "date": 10,
       "position": "top",
-      "highlight": true
+      "highlight": true,
+      "opened": false
     },
     {
       "date": 11,
       "position": "bottom",
-      "highlight": false
+      "highlight": false,
+      "opened": false
     },
     {
       "date": 12,
       "position": "right",
-      "highlight": true
+      "highlight": true,
+      "opened": false
     },
     {
       "date": 13,
       "position": "bottom",
-      "highlight": true
+      "highlight": true,
+      "opened": false
     },
     {
       "date": 14,
       "position": "top",
-      "highlight": false
+      "highlight": false,
+      "opened": false
     },
     {
       "date": 15,
       "position": "right",
-      "highlight": true
+      "highlight": true,
+      "opened": false
     },
     {
       "date": 16,
       "position": "left",
-      "highlight": false
+      "highlight": false,
+      "opened": false
     },
     {
       "date": 17,
       "position": "bottom",
-      "highlight": true
+      "highlight": true,
+      "opened": false
     },
     {
       "date": 18,
       "position": "right",
-      "highlight": false
+      "highlight": false,
+      "opened": false
     },
     {
       "date": 19,
       "position": "top",
-      "highlight": false
+      "highlight": false,
+      "opened": true
     },
     {
       "date": 20,
       "position": "left",
-      "highlight": true
+      "highlight": true,
+      "opened": false
     },
     {
       "date": 21,
       "position": "bottom",
-      "highlight": false
+      "highlight": false,
+      "opened": false
     },
     {
       "date": 22,
       "position": "top",
-      "highlight": true
+      "highlight": true,
+      "opened": false
     },
     {
       "date": 23,
       "position": "right",
-      "highlight": false
+      "highlight": false,
+      "opened": false
     },
     {
       "date": 24,
       "position": "left",
-      "highlight": true
+      "highlight": true,
+      "opened": false
      }
   ]
 }

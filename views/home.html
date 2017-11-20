@@ -1,7 +1,40 @@
 <div class="calendar">
   {{#each days}}
-    <div class="calendar__day open-{{position}} {{#if highlight}}calender__day--light{{/if}}">
-      <span data-letter="{{date}}">{{date}}</span>
+  <div class="calendar__day
+              open-{{position}}
+              {{#if highlight}}calender__day--light{{/if}}
+              {{#if opened}}opened{{/if}}">
+        <span data-letter="{{date}}">{{date}}</span>
     </div>
   {{/each}}
 </div>
+
+<script type="text/javascript">
+  const stringifyDate = (date) => {
+    return `${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()}`;
+  };
+
+  let doors = document.querySelectorAll('.calendar__day');
+  doors.forEach(door => {
+    let day = `${door.firstElementChild.innerHTML}/12/2017`;
+    adventDay = new Date(day);
+    let today = new Date()
+
+    let sibling = door.previousElementSibling
+    door.addEventListener('click', () => {
+
+    if (stringifyDate(adventDay) !== stringifyDate(today) || today > adventDay) {
+      alert('Click as much as you like, but you can\'t open this door today!');
+    }
+
+    const writeToFile
+    if (!door.classList.contains('opened')) {
+      door.className += 'opened ';
+
+      // window.location.href = `/${door.firstElementChild.innerHTML}`
+      //write to json file
+    }
+
+    });
+  })
+</script>

@@ -11,36 +11,36 @@
   }
 
   & span {
-  display: inline-block;
-  line-height: 1;
-  position: relative;
-  color: hsla(0, 0%, 0%, 0.6);
-  transform-style: preserve-3d;
-  perspective: 550px;
-  z-index: 1;
+    display: inline-block;
+    line-height: 1;
+    position: relative;
+    color: hsla(0, 0%, 0%, 0.6);
+    transform-style: preserve-3d;
+    perspective: 550px;
+    z-index: 1;
 
-  &:before,
-  &:after {
-    position: absolute;
-    content: attr(data-letter);
-    line-height: inherit;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 2;
-    transition: all 0.3s;
-  }
+    &:before,
+    &:after {
+      position: absolute;
+      content: attr(data-letter);
+      line-height: inherit;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 2;
+      transition: all 0.3s;
+    }
 
-  &:before {
-    text-shadow: none;
-    color: hsla(0, 0%, 0%, 0.12)
-  }
+    &:before {
+      text-shadow: none;
+      color: hsla(0, 0%, 0%, 0.12)
+    }
 
-  &:after {
-    color: $dark;
+    &:after {
+      color: $dark;
+    }
   }
-}
 }
 
 

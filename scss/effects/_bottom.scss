@@ -13,6 +13,7 @@
   }
 }
 
+.opened.open-bottom,
 .open-bottom:hover {
   & span:before {
     transform: translateY(-0.035em) scale(1,1.2) skew(10deg, 0deg);

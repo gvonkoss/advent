@@ -13,6 +13,7 @@
   }
 }
 
+.opened.open-left,
 .open-left:hover {
   & span:before {
     transform: scale(0.85,1) skew(0deg,20deg);
