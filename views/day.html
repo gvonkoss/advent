@@ -3,18 +3,32 @@
             {{#if highlight}}calender__day--light{{/if}}
             opened
             fullscreen">
-      <a href="/"><span data-letter="{{date}}">{{date}}</span></a>
+  <a href="/calendar"><span data-letter="{{date}}">{{date}}</span></a>
 
+  {{#if gif}}
     <div class="giphy">
       <img src="{{gif}}" alt="cool gif!">
     </div>
+  {{/if}}
 
-    <div class="fact">
-      Did you know,
-      <p>{{fact}}</p>
+  {{#if iframe}}
+    <div class="iframe">
+      <iframe width="{{iframe.width}}" height="{{iframe.height}}"
+        scrolling="{{iframe.scrolling}}" frameborder="{{iframe.frameborder}}"
+        src="{{iframe.src}}"
+        {{#if allowtransparency}}allowtransparency{{/if}}>
+      </iframe>
     </div>
+  {{/if}}
 
+  <div class="text">
+    <p class="text--main">{{text}}</p>
+    {{subtext}}
+  </div>
+
+  {{#if voucher}}
     <div class="voucher">
       <a href="{{voucher}}" data-text="Click here!">Click here!</a>
     </div>
+  {{/if}}
 </div>
