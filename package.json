@@ -13,6 +13,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "make it",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gabrielle von Koss",
