@@ -30,4 +30,5 @@ app.get('/calendar/:day', (req, res) => {
   res.render('day', date);
 });
 
-app.listen(3000, () => console.log('list-ening'))
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => console.log('list-ening'))
