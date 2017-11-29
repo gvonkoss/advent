@@ -10,12 +10,15 @@ body {
   margin: 0;
 }
 
+
 .calendar {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(4, 1fr);
-  width: 100vw;
+  grid-template-columns: 1fr;
   height: 100vh;
+
+  @media (min-width: 400px) {
+    grid-template-columns: repeat(6, 1fr);
+  }
 }
 
 .calendar__day--square {

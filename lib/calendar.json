@@ -20,16 +20,8 @@
     {
       "date": 3,
       "position": "right",
-      "highlight": true,
-      "opened": false,
-      "iframe": {
-        "width": "50%",
-        "height": "166",
-        "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/257518433&amp;color=a6aca9&amp;show_artwork=false",
-        "frameborder": "no"
-      },
-      "text": "Yay podcasts! I never really listen to them, but I think it's because I've also never really spent as much time looking into them as I did for this, so maybe there's something in finding some interesting ones.",
-      "subtext": "I'm assuming that you'd be interested in one about the circle of fifths ¯\\_(ツ)_/¯"
+      "highlight": false,
+      "opened": false
     },
     {
       "date": 4,
@@ -49,6 +41,13 @@
     {
       "date": 5,
       "position": "left",
+      "highlight": false,
+      "opened": false,
+      "gif": "http://www.text2image.com/user_images/text2image_D49536_20171123_211144.png"
+    },
+    {
+      "date": 6,
+      "position": "left",
       "highlight": true,
       "opened": false,
       "iframe": {
@@ -59,13 +58,6 @@
       },
       "text": "I have a spesh pocket-sized security blanket for you.",
       "subtext": "Come 'n' geddit 🎁."
-    },
-    {
-      "date": 6,
-      "position": "left",
-      "highlight": false,
-      "opened": false,
-      "gif": "http://www.text2image.com/user_images/text2image_D49536_20171123_211144.png"
     },
     {
       "date": 7,
@@ -79,7 +71,7 @@
         "frameborder": 0
       },
       "text": "I had never seen this video, but I really enjoyed it in all its weird wonderfulness. Have to say though, our rendition of it on the bus was a trillion times better. Obvs.",
-      "subtext": "(I bet you've probably seen this tho ✌️)"
+      "subtext": "⚡️( . Y . )⚡️"
     },
     {
       "date": 8,
@@ -93,20 +85,30 @@
     {
       "date": 9,
       "position": "right",
-      "highlight": false,
+      "highlight": true,
       "opened": false,
-      "gif": "",
-      "text": "",
-      "link": "https://amazon.co.uk"
+      "iframe": {
+        "width": "50%",
+        "height": "166",
+        "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/257518433&amp;color=a6aca9&amp;show_artwork=false",
+        "frameborder": "no"
+      },
+      "text": "Yay podcasts! I never really listen to them, but I think it's because I've also never really spent as much time looking into them as I did for this, so maybe there's something in finding some interesting ones.",
+      "subtext": "I'm assuming that you'd be interested in one about the circle of fifths ¯\\_(ツ)_/¯"
     },
     {
       "date": 10,
       "position": "top",
       "highlight": true,
       "opened": false,
-      "gif": "",
-      "text": "",
-      "link": "https://amazon.co.uk"
+      "iframe": {
+        "width": "860",
+        "height": "615",
+        "src": "https://www.youtube.com/embed/imIhkJPka0M",
+        "frameborder": 0
+      },
+      "text": "Turns out I was wrong, Norbert does do dinner, not just high fives. We never did invite him over. But he's wonderful anyway 🧀",
+      "subtext": "(omg there's a channel dedicated to Norbert!!! 🙊 )"
     },
     {
       "date": 11,
@@ -149,8 +151,7 @@
       "highlight": false,
       "opened": false,
       "gif": "",
-      "text": "",
-      "link": "https://amazon.co.uk"
+      "text": "Last we talked about Valentine's, was on Valentine's, and we said we should do cute things all days, not just one day. So have some cuteness and some candies 💓"
     },
     {
       "date": 15,
@@ -194,9 +195,9 @@
       "position": "right",
       "highlight": false,
       "opened": false,
-      "gif": "https://media.giphy.com/media/OFIsBxe3v7mKI/giphy.gif",
-      "text": "your teeth are also considered part of your skeletal system but they are not counted as bones. Your teeth are made of enamel and dentin. Enamel is the strongest substance in your body.",
-      "link": "https://amazon.co.uk"
+      "gif": "https://i.imgur.com/26uQxVz.png",
+      "text": "There are no mistakes, only happy accidents. I really like this quote, and I like that Bob ross is your happy place.",
+      "subtext": "So in the spirit of that, I got you a mini collection of little things that I think make you happy in that way."
     },
     {
       "date": 19,
