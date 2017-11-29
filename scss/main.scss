@@ -5,8 +5,6 @@
 
 body {
   font-family: 'Montserrat', Arial, sans-serif;
-  font-size: 150px;
-  font-weight: 900;
   margin: 0;
 }
 
@@ -37,6 +35,11 @@ body {
   padding: 20px;
   text-align: center;
   transition: all 2s ease;
+
+  span {
+    font-size: 130px;
+    font-weight: 900;
+  }
 }
 
 .calender__day--light {
