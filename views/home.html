@@ -2,7 +2,7 @@
   {{#each days}}
   <div class="calendar__day calendar__day--square
               open-{{position}}
-              {{#if highlight}}calender__day--light{{/if}}
+              {{#if highlight}}calendar__day--light{{/if}}
               {{#if opened}}opened{{/if}}">
         <a href="/calendar/{{date}}"><span data-letter="{{date}}">{{date}}</span></a>
     </div>
@@ -30,7 +30,6 @@
 
     if (!door.classList.contains('opened')) {
       door.className += 'opened ';
-      door.className += 'fullscreen ';
 
       // window.location.href = `/${door.firstElementChild.innerHTML}`
       //write to json file

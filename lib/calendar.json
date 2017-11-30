@@ -6,8 +6,8 @@
       "position": "right",
       "highlight": true,
       "opened": false,
-      "gif": "https://static1.squarespace.com/static/54d395d0e4b0aec4d9394b39/t/56db2651d210b821510e8a4e/1457202797524/",
-      "text": "We're going here today, and shipping out early so we can make it to your parentals at night. Just go with it.",
+      "image": "https://static1.squarespace.com/static/54d395d0e4b0aec4d9394b39/t/56db2651d210b821510e8a4e/1457202797524/",
+      "text": "We're going here today, and yes it has to be at a specific hour. Just go with it.",
       "subtext": "I wished we could have done this a little later, but we won't have time. Promise you won't ask any questions until we're there? 😘"
     },
     {
@@ -15,13 +15,16 @@
       "position": "top",
       "highlight": false,
       "opened": false,
-      "gif": "http://static1.1.sqspcdn.com/static/f/1542080/27739393/1509938306177/comiccrushed.jpg?token=dt6RbyJr8uYSKAdXnEx8RKz%2Fm8I%3D"
+      "image": "http://static1.1.sqspcdn.com/static/f/1542080/27739393/1509938306177/comiccrushed.jpg?token=dt6RbyJr8uYSKAdXnEx8RKz%2Fm8I%3D"
     },
     {
       "date": 3,
       "position": "right",
-      "highlight": false,
-      "opened": false
+      "highlight": true,
+      "opened": false,
+      "image": "http://nautilus-prod.s3.amazonaws.com/nautilus-logo-print.png",
+      "text": "You mentined this magazine aaaaaages ago, and I really like it, so I figured we could read some of it.",
+      "subtext": "Check yo' email. "
     },
     {
       "date": 4,
@@ -41,14 +44,14 @@
     {
       "date": 5,
       "position": "left",
-      "highlight": false,
+      "highlight": true,
       "opened": false,
-      "gif": "http://www.text2image.com/user_images/text2image_D49536_20171123_211144.png"
+      "image": "http://www.text2image.com/user_images/text2image_D49536_20171123_211144.png"
     },
     {
       "date": 6,
       "position": "left",
-      "highlight": true,
+      "highlight": false,
       "opened": false,
       "iframe": {
         "width": 480,
@@ -57,7 +60,7 @@
         "frameborder": 0
       },
       "text": "I have a spesh pocket-sized security blanket for you.",
-      "subtext": "Come 'n' geddit 🎁."
+      "subtext": "Come 'n' geddit 🎁"
     },
     {
       "date": 7,
@@ -65,8 +68,8 @@
       "highlight": false,
       "opened": false,
       "iframe": {
-        "width": 560,
-        "height": 315,
+        "width": 960,
+        "height": 515,
         "src": "https://www.youtube.com/embed/wo1OwRTRKRk",
         "frameborder": 0
       },
@@ -78,14 +81,14 @@
       "position": "left",
       "highlight": true,
       "opened": false,
-      "gif": "",
-      "text": "",
-      "link": "https://amazon.co.uk"
+      "image": "https://www.barbican.org.uk/sites/default/files/styles/hero_constrained_small/public/images/2017-09/Photo%20%C2%A9%20Edo%20Bertoglio%2C%20courtesy%20of%20Maripol.jpg?itok=mSrEHGZd",
+      "text": "Woo! We have tickets for the Basquiat expo! And it's for Sunday, the 10th at 12:30. Be there or be square.",
+      "subtext": "Maybe we do some brunching? 🤔"
     },
     {
       "date": 9,
       "position": "right",
-      "highlight": true,
+      "highlight": false,
       "opened": false,
       "iframe": {
         "width": "50%",
@@ -101,6 +104,15 @@
       "position": "top",
       "highlight": true,
       "opened": false,
+      "image": "http://1.bp.blogspot.com/-W9Wl3AJ57V8/V3_A6Mp3UqI/AAAAAAAAA_Y/KOhAxRzfT3c8jWj3l3z54OkM2sIM1c6pgCK4B/s1600/lllogored.jpg",
+      "text": "There are a lot of words and combinations thereof out in the world, and you introduced me to this super collection of them.",
+      "subtext": "Now you have physical access to them, because paper 💕"
+    },
+    {
+      "date": 11,
+      "position": "bottom",
+      "highlight": false,
+      "opened": false,
       "iframe": {
         "width": "860",
         "height": "615",
@@ -109,15 +121,6 @@
       },
       "text": "Turns out I was wrong, Norbert does do dinner, not just high fives. We never did invite him over. But he's wonderful anyway 🧀",
       "subtext": "(omg there's a channel dedicated to Norbert!!! 🙊 )"
-    },
-    {
-      "date": 11,
-      "position": "bottom",
-      "highlight": false,
-      "opened": false,
-      "gif": "http://nautilus-prod.s3.amazonaws.com/nautilus-logo-print.png",
-      "text": "Nautilitious",
-      "link": "https://amazon.co.uk"
     },
     {
       "date": 12,
@@ -150,7 +153,7 @@
       "position": "top",
       "highlight": false,
       "opened": false,
-      "gif": "",
+      "image": "",
       "text": "Last we talked about Valentine's, was on Valentine's, and we said we should do cute things all days, not just one day. So have some cuteness and some candies 💓"
     },
     {
@@ -158,7 +161,7 @@
       "position": "right",
       "highlight": true,
       "opened": false,
-      "gif": "http://images-nitrosell-com.akamaized.net/product_images/13/3148/large-RC_2013_Rogue_River_Blue_Label-1.jpg",
+      "image": "http://images-nitrosell-com.akamaized.net/product_images/13/3148/large-RC_2013_Rogue_River_Blue_Label-1.jpg",
       "text": "Remind me to give you this ↑ today.",
       "link": "https://amazon.co.uk"
     },
@@ -195,7 +198,7 @@
       "position": "right",
       "highlight": false,
       "opened": false,
-      "gif": "https://i.imgur.com/26uQxVz.png",
+      "image": "https://i.imgur.com/26uQxVz.png",
       "text": "There are no mistakes, only happy accidents. I really like this quote, and I like that Bob ross is your happy place.",
       "subtext": "So in the spirit of that, I got you a mini collection of little things that I think make you happy in that way."
     },
@@ -204,7 +207,7 @@
       "position": "top",
       "highlight": false,
       "opened": true,
-      "gif": "",
+      "image": "",
       "text": "",
       "link": "https://amazon.co.uk"
     },
@@ -213,7 +216,7 @@
       "position": "left",
       "highlight": true,
       "opened": false,
-      "gif": "",
+      "image": "",
       "text": "",
       "link": "https://amazon.co.uk"
     },
@@ -222,7 +225,7 @@
       "position": "bottom",
       "highlight": false,
       "opened": false,
-      "gif": "",
+      "image": "",
       "text": ""
     },
     {
@@ -245,7 +248,7 @@
       "position": "right",
       "highlight": false,
       "opened": false,
-      "gif": "",
+      "image": "",
       "text": "",
       "link": "https://amazon.co.uk"
     },
@@ -254,7 +257,7 @@
       "position": "left",
       "highlight": true,
       "opened": false,
-      "gif": "",
+      "image": "",
       "text": "",
       "link": "https://amazon.co.uk"
      }

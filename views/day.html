@@ -1,34 +1,25 @@
 <div class="calendar__day
             open-{{position}}
-            {{#if highlight}}calender__day--light{{/if}}
+            {{#if highlight}}calendar__day--light{{/if}}
             opened
             fullscreen">
   <a href="/calendar"><span data-letter="{{date}}">{{date}}</span></a>
+  <div class="calendar__day--content">
+    <div class="calendar__day--graphic">
 
-  {{#if gif}}
-    <div class="giphy">
-      <img src="{{gif}}" alt="cool gif!">
-    </div>
-  {{/if}}
+      {{#if image}}<img src="{{image}}" alt="cool image bro!">{{/if}}
 
-  {{#if iframe}}
-    <div class="iframe">
-      <iframe width="{{iframe.width}}" height="{{iframe.height}}"
+      {{#if iframe}}
+        <iframe width="{{iframe.width}}" height="{{iframe.height}}"
         scrolling="{{iframe.scrolling}}" frameborder="{{iframe.frameborder}}"
         src="{{iframe.src}}"
-        {{#if allowtransparency}}allowtransparency{{/if}}>
-      </iframe>
+        {{#if allowtransparency}}allowtransparency{{/if}}></iframe>
+      {{/if}}
     </div>
-  {{/if}}
 
-  <div class="text">
-    <p class="text--main">{{text}}</p>
-    {{subtext}}
+    <div class="calendar__day--text">
+      {{text}}
+      <p class="calendar__day--subtext">{{subtext}}</p>
+    </div>
   </div>
-
-  {{#if voucher}}
-    <div class="voucher">
-      <a href="{{voucher}}" data-text="Click here!">Click here!</a>
-    </div>
-  {{/if}}
 </div>

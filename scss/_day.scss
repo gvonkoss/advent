@@ -1,68 +1,31 @@
-.text {
-  margin: 0 auto;
-  width: 75%;
-  font-size: 26px;
-  font-weight: 400;
-  line-height: 1;
-
-  &--main {
-    font-size: 32px;
-    font-weight: 400;
-    line-height: 1.5;
+.calendar__day {
+  &--content {
+    margin: auto 130px;
   }
-}
 
-.giphy {
-  margin: 3% 0 2%;
+  &--graphic {
+    margin: 40px 0;
+  }
 
   img {
+    max-width: 75%;
     border-style: dashed;
     border-color: white;
     padding: 1%;
   }
-}
 
-.iframe {
-  margin-top: 3%;
-}
+  &--text {
+    margin: 0 auto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 1.25;
+  }
 
-.voucher {
-  display: flex;
-  justify-content: center;
-  font-size: 40px;
-  font-weight: 400;
-  margin: 3% 0;
-
-  a {
-    text-decoration: none;
-  	position: relative;
-  	padding-bottom: 1em;
-  	overflow: hidden;
-  	color: white;
-
-    &:after {
-      position: absolute;
-  		top: 0;
-  		left: 0;
-  		right: 0;
-  		bottom: 0;
-  		white-space: nowrap;
-  		content: attr(data-text)attr(data-text);
-  		color: transparent;
-  		line-height: 1.8;
-      text-decoration: underline;
-      text-decoration-style: wavy;
-      text-decoration-color: white;
-    }
-
-    &:hover:after {
-  		animation: wavy-slide 3s linear infinite;
-  	}
+  &--subtext {
+    font-size: 18px;
   }
 }
 
-@keyframes wavy-slide {
-	to {
-		margin-left: -51%;
-	}
+.fullscreen {
+  height: 100%;
 }

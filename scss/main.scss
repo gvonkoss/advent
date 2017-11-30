@@ -6,48 +6,36 @@
 body {
   font-family: 'Montserrat', Arial, sans-serif;
   margin: 0;
+  height: 100vh;
 }
-
 
 .calendar {
   display: grid;
   grid-template-columns: 1fr;
-  height: 100vh;
+  height: 100%;
 
   @media (min-width: 400px) {
     grid-template-columns: repeat(6, 1fr);
   }
 }
 
-.calendar__day--square {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 .calendar__day {
   background: $dark;
-  position: relative;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
   padding: 20px;
   text-align: center;
-  transition: all 2s ease;
 
   span {
-    font-size: 130px;
+    font-size: 120px;
     font-weight: 900;
   }
-}
 
-.calender__day--light {
-  background: $medium;
-}
+  &--light {
+    background: $medium;
+  }
 
-.fullscreen {
-  z-index: 2;
-  position: absolute;
-  transform: translate(0, 0);
+  &--square {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 }
