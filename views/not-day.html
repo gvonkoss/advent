@@ -1,0 +1,16 @@
+<div class="calendar__day open-top fullscreen">
+  <a href="/calendar"><span data-letter="BACK">BACK</span></a>
+  <div class="calendar__day--content">
+    <div class="calendar__day--graphic">
+        <iframe width="{{iframe.width}}" height="{{iframe.height}}"
+        scrolling="{{iframe.scrolling}}" frameborder="{{iframe.frameborder}}"
+        src="{{iframe.src}}"
+        {{#if allowtransparency}}allowtransparency{{/if}}></iframe>
+    </div>
+
+    <div class="calendar__day--text">
+      {{text}}
+      <p class="calendar__day--subtext">{{subtext}}</p>
+    </div>
+  </div>
+</div>

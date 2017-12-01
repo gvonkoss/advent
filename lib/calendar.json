@@ -1,5 +1,14 @@
 {
-  "intro": "yoyoyoooo",
+  "nope": {
+    "iframe": {
+      "width": 480,
+      "height": 356,
+      "src": "https://giphy.com/embed/wQIGDx5hz1A2I",
+      "frameborder": 0
+    },
+    "text": "Cheeky, but no. You cannae open this day until the date is correct.",
+    "subtext": "I love you 😘"
+  },
   "days":[
     {
       "date": 1,
@@ -68,8 +77,8 @@
       "highlight": false,
       "opened": false,
       "iframe": {
-        "width": 960,
-        "height": 515,
+        "width": 760,
+        "height": 415,
         "src": "https://www.youtube.com/embed/wo1OwRTRKRk",
         "frameborder": 0
       },

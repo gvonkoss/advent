@@ -1,5 +1,5 @@
 build:
-	@node-sass scss/main.scss public/main.css
+	@node-sass src/scss/main.scss public/main.css
 
 run:
 	@node app.js
