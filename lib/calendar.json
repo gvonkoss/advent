@@ -14,7 +14,7 @@
       "date": 1,
       "position": "right",
       "highlight": true,
-      "opened": false,
+      "opened": true,
       "image": "https://static1.squarespace.com/static/54d395d0e4b0aec4d9394b39/t/56db2651d210b821510e8a4e/1457202797524/",
       "text": "We're going here today, and yes it has to be at a specific hour. Just go with it.",
       "subtext": "I wished we could have done this a little later, but we won't have time. Promise you won't ask any questions until we're there? 😘"
@@ -33,7 +33,7 @@
       "opened": false,
       "image": "http://nautilus-prod.s3.amazonaws.com/nautilus-logo-print.png",
       "text": "You mentined this magazine aaaaaages ago, and I really like it, so I figured we could read some of it.",
-      "subtext": "Check yo' email. "
+      "subtext": "Check yo' email. (Actually, let me know when you've opened this, give me 5, THEN check yo' email 😬)"
     },
     {
       "date": 4,
@@ -43,12 +43,13 @@
       "iframe": {
         "width": 300,
         "height": 300,
-        "src": "https://open.spotify.com/embed/track/56oH7K0mqBNLUkXwL226gp",
+        "src": "https://open.spotify.com/user/129623282",
         "frameborder": 0,
         "allowtransparency": true
       },
-      "text": "'Milk of human kindness'. You taught me this phrase. Or maybe it was the bard. But you mentioned it.",
-      "subtext": "And I have no idea if you think the song is any good, but I certainly didn't like the other options that I found ♪"
+      "link": "spotify:user:129623282",
+      "text": "This chick has some crazy playlists, and I thought of you so many times while I was going through her list of playlists.",
+      "subtext": "'Songs for short attention spans', 'cool key changes', and 'weird or changing time signatures' really made me think of you ♪"
     },
     {
       "date": 5,
