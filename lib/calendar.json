@@ -23,7 +23,7 @@
       "date": 2,
       "position": "top",
       "highlight": false,
-      "opened": false,
+      "opened": true,
       "image": "http://static1.1.sqspcdn.com/static/f/1542080/27739393/1509938306177/comiccrushed.jpg?token=dt6RbyJr8uYSKAdXnEx8RKz%2Fm8I%3D"
     },
     {
@@ -68,7 +68,7 @@
         "src": "https://giphy.com/embed/FOL5mK0tXUmXe",
         "frameborder": 0
       },
-      "text": "I have a spesh pocket-sized security blanket for you.",
+      "text": "I have a spesh pocket-sized security blanket for you. I was worried you might have found one earlier. But you changed you mind. Phew.",
       "subtext": "Come 'n' geddit 🎁"
     },
     {
@@ -123,13 +123,14 @@
       "highlight": false,
       "opened": false,
       "iframe": {
-        "width": "860",
-        "height": "615",
+        "width": "560",
+        "height": "315",
         "src": "https://www.youtube.com/embed/imIhkJPka0M",
         "frameborder": 0
       },
       "text": "Turns out I was wrong, Norbert does do dinner, not just high fives. We never did invite him over. But he's wonderful anyway 🧀",
-      "subtext": "(omg there's a channel dedicated to Norbert!!! 🙊 )"
+      "subtext": "(omg there's a channel dedicated to Norbert!!! 🙊 )",
+      "link": "https://www.youtube.com/channel/UCheTjoffF00BiQTedVu08xA"
     },
     {
       "date": 12,
@@ -137,12 +138,12 @@
       "highlight": true,
       "opened": false,
       "iframe": {
-        "width": "860",
-        "height": "615",
+        "width": "660",
+        "height": "415",
         "src": "https://www.youtube.com/embed/e1iBejUxuzE?rel=0&amp;showinfo=0",
         "frameborder": 0
       },
-      "text": "One year ago today, we talked about Zoetropes cakes! I thought you might appreciate a funky japanese one, with a christmas theme 🎄"
+      "text": "One year ago today, we talked about Zoetrope cakes! I thought you might appreciate a funky japanese one, with a christmas theme 🎄"
     },
     {
       "date": 13,
@@ -162,8 +163,13 @@
       "position": "top",
       "highlight": false,
       "opened": false,
-      "image": "",
-      "text": "Last we talked about Valentine's, was on Valentine's, and we said we should do cute things all days, not just one day. So have some cuteness and some candies 💓"
+      "iframe": {
+        "width": "400",
+        "height": "480",
+        "src": "https://giphy.com/embed/1S9kD6xm4601O",
+        "frameborder": 0
+      },
+      "text": "Last we talked about the concept of Valentine's, was on Valentine's, and we said we should do cute things all days, not just one day. So have some cuteness and some candies 💓"
     },
     {
       "date": 15,
@@ -171,8 +177,7 @@
       "highlight": true,
       "opened": false,
       "image": "http://images-nitrosell-com.akamaized.net/product_images/13/3148/large-RC_2013_Rogue_River_Blue_Label-1.jpg",
-      "text": "Remind me to give you this ↑ today.",
-      "link": "https://amazon.co.uk"
+      "text": "Remind me to give you this ↑ today."
     },
     {
       "date": 16,
@@ -180,8 +185,8 @@
       "highlight": false,
       "opened": false,
       "iframe": {
-        "width": "367",
-        "height": "480",
+        "width": "267",
+        "height": "380",
         "src": "https://giphy.com/embed/cMso9wDwqSy3e",
         "frameborder": 0
       },
@@ -194,8 +199,8 @@
       "highlight": true,
       "opened": false,
       "iframe": {
-        "width": "500",
-        "height": "500",
+        "width": "400",
+        "height": "400",
         "src": "https://open.spotify.com/embed/album/7q18n1Pnq7mx6satptDoJ3",
         "frameborder": "no",
         "allowtransparency": true
