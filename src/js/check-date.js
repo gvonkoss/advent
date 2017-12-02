@@ -10,11 +10,14 @@ module.exports = (req, res) => {
   let adventDay = new Date(day);
   let today = new Date();
 
-  // if (stringifyDate(adventDay) === stringifyDate(today) || date.opened) {
+  if (stringifyDate(adventDay) === stringifyDate(today) ||
+    today.getDate() > adventDay.getDate() || date.opened) {
+    console.log(today.getDate());
+    console.log(adventDay.getDate());
     date.opened = true;
     res.render('day', date);
-  // } else {
-  //   console.log(`${stringifyDate(today)} is too early to open the door ${stringifyDate(adventDay)}`);
-  //   res.redirect('/you-shall-not-pass');
-  // }
+  } else {
+    console.log(`${stringifyDate(today)} is too early to open the door ${stringifyDate(adventDay)}`);
+    res.redirect('/you-shall-not-pass');
+  }
 };
