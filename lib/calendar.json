@@ -30,7 +30,7 @@
       "date": 3,
       "position": "right",
       "highlight": true,
-      "opened": false,
+      "opened": true,
       "image": "http://nautilus-prod.s3.amazonaws.com/nautilus-logo-print.png",
       "text": "You mentined this magazine aaaaaages ago, and I really like it, so I figured we could read some of it.",
       "subtext": "Check yo' email. (Actually, let me know when you've opened this, give me 5, THEN check yo' email 😬)"
@@ -39,7 +39,7 @@
       "date": 4,
       "position": "top",
       "highlight": false,
-      "opened": false,
+      "opened": true,
       "iframe": {
         "width": 380,
         "height": 291,
@@ -54,14 +54,14 @@
       "date": 5,
       "position": "left",
       "highlight": true,
-      "opened": false,
+      "opened": true,
       "image": "http://www.text2image.com/user_images/text2image_D49536_20171123_211144.png"
     },
     {
       "date": 6,
       "position": "left",
       "highlight": false,
-      "opened": false,
+      "opened": true,
       "iframe": {
         "width": 480,
         "height": 271,
@@ -75,7 +75,7 @@
       "date": 7,
       "position": "bottom",
       "highlight": false,
-      "opened": false,
+      "opened": true,
       "iframe": {
         "width": 760,
         "height": 415,
@@ -91,7 +91,7 @@
       "highlight": true,
       "opened": false,
       "image": "https://www.barbican.org.uk/sites/default/files/styles/hero_constrained_small/public/images/2017-09/Photo%20%C2%A9%20Edo%20Bertoglio%2C%20courtesy%20of%20Maripol.jpg?itok=mSrEHGZd",
-      "text": "Woo! We have tickets for the Basquiat expo! And it's for Sunday, the 10th at 12:30. Be there or be square.",
+      "text": "I wanna take you to this expo, I know you're super into it and haven't seen it yet, so, tomorrow? Sunday?",
       "subtext": "Maybe we do some brunching? 🤔"
     },
     {

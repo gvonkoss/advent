@@ -12,8 +12,6 @@ module.exports = (req, res) => {
 
   if (stringifyDate(adventDay) === stringifyDate(today) ||
     today.getDate() > adventDay.getDate() || date.opened) {
-    console.log(today.getDate());
-    console.log(adventDay.getDate());
     date.opened = true;
     res.render('day', date);
   } else {
