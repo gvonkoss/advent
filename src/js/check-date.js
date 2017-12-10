@@ -15,7 +15,6 @@ module.exports = (req, res) => {
     date.opened = true;
     res.render('day', date);
   } else {
-    console.log(`${stringifyDate(today)} is too early to open the door ${stringifyDate(adventDay)}`);
     res.redirect('/you-shall-not-pass');
   }
 };
