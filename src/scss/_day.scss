@@ -26,6 +26,18 @@
     font-size: 20px;
   }
 
+  &--list {
+    text-align: left;
+    width: 55%;
+    height: 350px;
+    margin: 0 auto;
+    overflow: scroll;
+
+    li {
+      margin: 20px 0;
+    }
+  }
+
   &--link {
     display: flex;
     justify-content: center;

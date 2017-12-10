@@ -89,7 +89,7 @@
       "date": 8,
       "position": "left",
       "highlight": true,
-      "opened": false,
+      "opened": true,
       "image": "https://www.barbican.org.uk/sites/default/files/styles/hero_constrained_small/public/images/2017-09/Photo%20%C2%A9%20Edo%20Bertoglio%2C%20courtesy%20of%20Maripol.jpg?itok=mSrEHGZd",
       "text": "I wanna take you to this expo, I know you're super into it and haven't seen it yet, so, tomorrow? Sunday?",
       "subtext": "Maybe we do some brunching? 🤔"
@@ -98,7 +98,7 @@
       "date": 9,
       "position": "right",
       "highlight": false,
-      "opened": false,
+      "opened": true,
       "iframe": {
         "width": "50%",
         "height": "166",
@@ -112,7 +112,7 @@
       "date": 10,
       "position": "top",
       "highlight": true,
-      "opened": false,
+      "opened": true,
       "image": "http://1.bp.blogspot.com/-W9Wl3AJ57V8/V3_A6Mp3UqI/AAAAAAAAA_Y/KOhAxRzfT3c8jWj3l3z54OkM2sIM1c6pgCK4B/s1600/lllogored.jpg",
       "text": "There are a lot of words and combinations thereof out in the world, and you introduced me to this super collection of them.",
       "subtext": "Now you have physical access to them, because paper 💕"
@@ -199,13 +199,12 @@
       "highlight": true,
       "opened": false,
       "iframe": {
-        "width": "400",
-        "height": "400",
-        "src": "https://open.spotify.com/embed/album/7q18n1Pnq7mx6satptDoJ3",
-        "frameborder": "no",
-        "allowtransparency": true
+        "width": "384",
+        "height": "480",
+        "src": "https://giphy.com/embed/WD3eq9Ve4nHMI",
+        "frameborder": 0
       },
-      "text": "You were right. This soundtrack is beautiful, so I'm dropping it in here as a reminder that we haven't watched this film yet, and I'd really like to."
+      "text": "I GOT YOU SOMETHING AS A JOKE BUT MAYBE MAXIMUM COZE AS SHOWN ABOVE. 🔥"
     },
     {
       "date": 18,
@@ -221,26 +220,61 @@
       "position": "top",
       "highlight": false,
       "opened": false,
-      "image": "",
-      "text": "",
-      "link": "https://amazon.co.uk"
+      "iframe": {
+        "width": "480",
+        "height": "360",
+        "src": "https://giphy.com/embed/IThjAlJnD9WNO",
+        "frameborder": 0
+      },
+      "text": "I never really knew why I said grizzly bear that fateful day, so long ago, but since it kinda became our thing, I made a thing. 🐻 💕"
     },
     {
       "date": 20,
       "position": "left",
       "highlight": true,
       "opened": false,
-      "image": "",
-      "text": "",
-      "link": "https://amazon.co.uk"
+      "facts": [
+        "over 99% of the species that have inhabited the earth are now extinct?",
+        "that Queen Elizabeth is a trained mechanic?",
+        "the Earth is 4.5 billion years old",
+        "that King Tut's parents were likely to be brother and sister?",
+        "in the month before the ancient Olympics no wars were allowed so that spectators could travel from across Greece unharmed?",
+        "that marzipan was sold as a remedy for physical and mental disorders in the middle ages?",
+        "that drug detecting dogs will eventually develop psychological problems if they do not find any drugs so they need to be taken on fake missions between live busts?",
+        "in Polish scrabble, the letter Z is only worth 1 point?",
+        "that apple seeds have cyanide in them!?",
+        "that the word 'oxymoron' is itself an oxymoron?",
+        "there is a chinese mushroom so precious that it is harvested under guard?",
+        "that pure water is a poor conductor, so is suitable as a material for electrical insulation",
+        "that a pineapple is actually a bunch of small berries fused together into a single mass?",
+        "ravens can imitate human speech more effectively than parrots?",
+        "that potatoes arrived in Japan in 1600?",
+        "that workers who cut up pineapples eventually lose their fingertips due to chemical erosion from the fruit",
+        "that any dolphins or whales that are caught within 3 miles of the UK are considered the personal property of Queen Elizabeth",
+        "that the cello is the closest sounding instrument to the human voice?",
+        "that Nintendo was a card game in Japan in the late 1800s, also it means 'Leave luck to heaven' or 'deep in the mind, we do whatever we have to do'",
+        "that choosing diet coke (or any other diet drink) as a mixer will get you more drunk than the full-fat option?",
+        "a cab driver set a record in manhatten recently by hitting 240 consecutive green lights",
+        "there are only 8 surviving species of bear left in the world",
+        "in Switzerland it's illegal to own a guinea pig on it's own because they are prone to loneliness 💔",
+        "starfish can turn their stomachs inside out?",
+        "cheese is the most frequently stolen food in the whole world? 4% ends up getting pinched."
+      ],
+      "subtext": "These are the facts I could find in our history. Please to scroll 😘"
     },
     {
       "date": 21,
       "position": "bottom",
       "highlight": false,
       "opened": false,
-      "image": "",
-      "text": ""
+      "iframe": {
+        "width": "400",
+        "height": "400",
+        "src": "https://open.spotify.com/embed/album/7q18n1Pnq7mx6satptDoJ3",
+        "frameborder": "no",
+        "allowtransparency": true
+      },
+      "text": "You were right. This soundtrack is beautiful, so I'm dropping it in here as a reminder that we haven't watched this film yet, and I'd really like to."
     },
     {
       "date": 22,
