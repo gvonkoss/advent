@@ -121,7 +121,7 @@
       "date": 11,
       "position": "bottom",
       "highlight": false,
-      "opened": false,
+      "opened": true,
       "iframe": {
         "width": "560",
         "height": "315",
@@ -136,7 +136,7 @@
       "date": 12,
       "position": "right",
       "highlight": true,
-      "opened": false,
+      "opened": true,
       "iframe": {
         "width": "660",
         "height": "415",
@@ -149,7 +149,7 @@
       "date": 13,
       "position": "bottom",
       "highlight": true,
-      "opened": false,
+      "opened": true,
       "iframe": {
         "width": "480",
         "height": "275",
