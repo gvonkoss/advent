@@ -162,7 +162,7 @@
       "date": 14,
       "position": "top",
       "highlight": false,
-      "opened": false,
+      "opened": true,
       "iframe": {
         "width": "400",
         "height": "480",
@@ -175,7 +175,7 @@
       "date": 15,
       "position": "right",
       "highlight": true,
-      "opened": false,
+      "opened": true,
       "image": "http://images-nitrosell-com.akamaized.net/product_images/13/3148/large-RC_2013_Rogue_River_Blue_Label-1.jpg",
       "text": "Remind me to give you this ↑ today."
     },
@@ -196,15 +196,15 @@
     {
       "date": 17,
       "position": "bottom",
-      "highlight": true,
+      "highlight": false,
       "opened": false,
       "iframe": {
-        "width": "384",
-        "height": "480",
-        "src": "https://giphy.com/embed/WD3eq9Ve4nHMI",
+        "width": "480",
+        "height": "360",
+        "src": "https://giphy.com/embed/IThjAlJnD9WNO",
         "frameborder": 0
       },
-      "text": "I GOT YOU SOMETHING AS A JOKE BUT MAYBE MAXIMUM COZE AS SHOWN ABOVE. 🔥"
+      "text": "I never really knew why I said grizzly bear that fateful day, so long ago, but since it kinda became our thing, I made a thing. 🐻 💕"
     },
     {
       "date": 18,
@@ -221,16 +221,31 @@
       "highlight": false,
       "opened": false,
       "iframe": {
-        "width": "480",
-        "height": "360",
-        "src": "https://giphy.com/embed/IThjAlJnD9WNO",
-        "frameborder": 0
+        "width": "400",
+        "height": "400",
+        "src": "https://open.spotify.com/embed/album/7q18n1Pnq7mx6satptDoJ3",
+        "frameborder": "no",
+        "allowtransparency": true
       },
-      "text": "I never really knew why I said grizzly bear that fateful day, so long ago, but since it kinda became our thing, I made a thing. 🐻 💕"
+      "text": "You were right. This soundtrack is beautiful, so I'm dropping it in here as a reminder that we haven't watched this film yet, and I'd really like to."
     },
     {
       "date": 20,
       "position": "left",
+      "highlight": true,
+      "opened": false,
+      "iframe": {
+        "width": "384",
+        "height": "480",
+        "src": "https://giphy.com/embed/WD3eq9Ve4nHMI",
+        "frameborder": 0
+      },
+      "text": "I GOT YOU SOMETHING AS A JOKE BUT MAYBE MAXIMUM COZE AS SHOWN ABOVE. 🔥"
+    },
+
+    {
+      "date": 21,
+      "position": "bottom",
       "highlight": true,
       "opened": false,
       "facts": [
@@ -261,20 +276,6 @@
         "cheese is the most frequently stolen food in the whole world? 4% ends up getting pinched."
       ],
       "subtext": "These are the facts I could find in our history. Please to scroll 😘"
-    },
-    {
-      "date": 21,
-      "position": "bottom",
-      "highlight": false,
-      "opened": false,
-      "iframe": {
-        "width": "400",
-        "height": "400",
-        "src": "https://open.spotify.com/embed/album/7q18n1Pnq7mx6satptDoJ3",
-        "frameborder": "no",
-        "allowtransparency": true
-      },
-      "text": "You were right. This soundtrack is beautiful, so I'm dropping it in here as a reminder that we haven't watched this film yet, and I'd really like to."
     },
     {
       "date": 22,
