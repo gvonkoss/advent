@@ -183,7 +183,7 @@
       "date": 16,
       "position": "left",
       "highlight": false,
-      "opened": false,
+      "opened": true,
       "iframe": {
         "width": "267",
         "height": "380",
@@ -197,7 +197,7 @@
       "date": 17,
       "position": "bottom",
       "highlight": false,
-      "opened": false,
+      "opened": true,
       "iframe": {
         "width": "480",
         "height": "360",
@@ -210,7 +210,7 @@
       "date": 18,
       "position": "right",
       "highlight": false,
-      "opened": false,
+      "opened": true,
       "image": "https://i.imgur.com/26uQxVz.png",
       "text": "There are no mistakes, only happy accidents. I really like this quote, and I like that Bob ross is your happy place.",
       "subtext": "So in the spirit of that, I got you a mini collection of little things that I think make you happy in that way."
@@ -219,7 +219,7 @@
       "date": 19,
       "position": "top",
       "highlight": false,
-      "opened": false,
+      "opened": true,
       "iframe": {
         "width": "400",
         "height": "400",
@@ -242,7 +242,6 @@
       },
       "text": "I GOT YOU SOMETHING AS A JOKE BUT MAYBE MAXIMUM COZE AS SHOWN ABOVE. 🔥"
     },
-
     {
       "date": 21,
       "position": "bottom",
@@ -297,7 +296,12 @@
       "position": "right",
       "highlight": false,
       "opened": false,
-      "image": "",
+      "iframe": {
+        "width": 760,
+        "height": 415,
+        "src": "https://www.youtube.com/embed/wo1OwRTRKRk",
+        "frameborder": 0
+      },
       "text": "",
       "link": "https://amazon.co.uk"
     },
