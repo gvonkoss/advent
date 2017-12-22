@@ -233,7 +233,7 @@
       "date": 20,
       "position": "left",
       "highlight": true,
-      "opened": false,
+      "opened": true,
       "iframe": {
         "width": "384",
         "height": "480",
