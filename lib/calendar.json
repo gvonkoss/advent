@@ -246,7 +246,7 @@
       "date": 21,
       "position": "bottom",
       "highlight": true,
-      "opened": false,
+      "opened": true,
       "facts": [
         "over 99% of the species that have inhabited the earth are now extinct?",
         "that Queen Elizabeth is a trained mechanic?",
@@ -280,7 +280,7 @@
       "date": 22,
       "position": "top",
       "highlight": true,
-      "opened": false,
+      "opened": true,
       "special": true,
       "iframe": {
         "width": "75%",
@@ -297,13 +297,13 @@
       "highlight": false,
       "opened": false,
       "iframe": {
-        "width": 760,
+        "width": 660,
         "height": 415,
-        "src": "https://www.youtube.com/embed/wo1OwRTRKRk",
+        "src": "https://www.youtube.com/embed/0A253C3TH_8",
         "frameborder": 0
       },
-      "text": "",
-      "link": "https://amazon.co.uk"
+      "text": "😬 I didn't have much time to practice 🙈  🙈  🙈, or to make this video properly, but I'm learning and we can maybe some day play together! 💕",
+      "subtext": "Much love-o."
     },
     {
       "date": 24,
